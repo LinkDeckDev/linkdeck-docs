@@ -10,7 +10,9 @@ Only material that has passed a public-disclosure review should be published her
 
 ## Published documents
 
+- [Project Overview](project-overview.md) — product concept, interaction model, prototype direction and public development approach
 - [Public Roadmap](public-roadmap.md) — high-level development phases, validation gates and software priorities
+- [Prototype Milestones](prototype-milestones.md) — evidence-based gates from digital preparation to an accepted first physical prototype
 - [UI/UX Overview](ui-ux-overview.md) — public interaction model, design principles, core flows and real-hardware validation goals
 - [Brand Overview](brand-overview.md) — public identity, palette, typography, mascot and communication direction
 - [Prototype Validation Overview](prototype-validation.md) — public validation approach for mechanical, UI, NFC, QR, power and thermal testing
@@ -19,11 +21,10 @@ Only material that has passed a public-disclosure review should be published her
 
 Additional public documentation may include:
 
-- Product overview
-- Prototype milestones
 - User-facing guides
 - Public architecture overviews
 - Selected technical notes
+- Prototype results after real hardware validation
 - Developer documentation once stable public interfaces exist
 
 ## Publication rules
@@ -45,7 +46,7 @@ Public documents may therefore be curated summaries rather than direct copies of
 
 ## Related
 
-- [Project overview](https://github.com/LinkDeckDev/linkdeck)
+- [Project repository](https://github.com/LinkDeckDev/linkdeck)
 - [Devlogs](../devlog/)
 - [Future examples](https://github.com/LinkDeckDev/linkdeck-examples)
 
