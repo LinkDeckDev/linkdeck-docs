@@ -4,29 +4,32 @@ Public documentation and development history for LinkDeck.
 
 This repository contains documentation that is safe to publish while the product is still in prototype development.
 
+## Start here
+
+- [Project Overview](docs/project-overview.md) — what LinkDeck is, the interaction model and the current prototype direction
+- [Public Roadmap](docs/public-roadmap.md) — high-level development phases and software priorities
+- [Prototype Milestones](docs/prototype-milestones.md) — evidence-based gates from digital preparation to the first accepted physical prototype
+- [UI/UX Overview](docs/ui-ux-overview.md) — public interaction model, core flows and real-hardware validation goals
+- [Brand Overview](docs/brand-overview.md) — visual identity, typography, Ray and communication direction
+- [Prototype Validation Overview](docs/prototype-validation.md) — public validation approach for mechanics, UI, NFC, QR, power and thermal behavior
+- [Devlogs](devlog/) — public devlog index and preparation material
+
 ## Current status
 
-The public documentation set is being prepared before the first hardware validation cycle.
+LinkDeck is currently in **digital preparation before hardware arrival**.
 
-The current focus is on clear, high-level material that explains the product and development process without exposing production-critical implementation details.
-
-## Documentation areas
-
-Planned and evolving public content includes:
-
-- Project overview
-- Public roadmap
-- Development logs
-- Prototype milestones
-- Selected UI/UX documentation
-- User-facing documentation
-- Selected architecture documentation
-- Developer documentation when stable public interfaces exist
+The public documentation baseline is now established before the first hardware validation cycle. Physical bring-up, measurements and hardware-dependent results will be documented only after they have been observed on the real prototype.
 
 ## Repository structure
 
-- [`docs/`](docs/) — public documentation
-- [`devlog/`](devlog/) — devlog index and supporting public material
+- [`docs/`](docs/) — reviewed public product and development documentation
+- [`devlog/`](devlog/) — devlog index and supporting public preparation material
+
+## Documentation approach
+
+The internal LinkDeck documentation is intentionally more detailed than the public set.
+
+Public documents are curated to explain the product, development decisions and validation process without exposing production-critical implementation details or prematurely presenting unvalidated decisions as final.
 
 ## Related repositories
 
