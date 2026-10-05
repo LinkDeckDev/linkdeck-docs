@@ -14,17 +14,21 @@ Only material that has passed a public-disclosure review should be published her
 - [Public Roadmap](public-roadmap.md) — high-level development phases, validation gates and software priorities
 - [Prototype Milestones](prototype-milestones.md) — evidence-based gates from digital preparation to an accepted first physical prototype
 - [UI/UX Overview](ui-ux-overview.md) — public interaction model, design principles, core flows and real-hardware validation goals
+- [Public Architecture Overview](public-architecture-overview.md) — product-level system boundaries, hardware/software roles and validation-first architecture
+- [Software Architecture Overview](software-architecture-overview.md) — public state, navigation, UI, service and platform architecture direction
+- [NFC & QR Sharing Concept](nfc-qr-sharing-concept.md) — public sharing flow, NFC states, QR fallback and physical validation goals
 - [Brand Overview](brand-overview.md) — public identity, palette, typography, mascot and communication direction
 - [Prototype Validation Overview](prototype-validation.md) — public validation approach for mechanical, UI, NFC, QR, power and thermal testing
+- [Glossary](glossary.md) — definitions for recurring LinkDeck product and development terminology
 
 ## Planned documentation
 
 Additional public documentation may include:
 
 - User-facing guides
-- Public architecture overviews
 - Selected technical notes
 - Prototype results after real hardware validation
+- FAQ material based on recurring public questions
 - Developer documentation once stable public interfaces exist
 
 ## Publication rules
