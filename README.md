@@ -10,15 +10,19 @@ This repository contains documentation that is safe to publish while the product
 - [Public Roadmap](docs/public-roadmap.md) — high-level development phases and software priorities
 - [Prototype Milestones](docs/prototype-milestones.md) — evidence-based gates from digital preparation to the first accepted physical prototype
 - [UI/UX Overview](docs/ui-ux-overview.md) — public interaction model, core flows and real-hardware validation goals
+- [Public Architecture Overview](docs/public-architecture-overview.md) — product-level system architecture and public engineering boundaries
+- [Software Architecture Overview](docs/software-architecture-overview.md) — public software layers, state, navigation and service boundaries
+- [NFC & QR Sharing Concept](docs/nfc-qr-sharing-concept.md) — NFC-first sharing flow and QR fallback direction
 - [Brand Overview](docs/brand-overview.md) — visual identity, typography, Ray and communication direction
 - [Prototype Validation Overview](docs/prototype-validation.md) — public validation approach for mechanics, UI, NFC, QR, power and thermal behavior
+- [Glossary](docs/glossary.md) — recurring LinkDeck product and development terminology
 - [Devlogs](devlog/) — public devlog index and preparation material
 
 ## Current status
 
 LinkDeck is currently in **digital preparation before hardware arrival**.
 
-The public documentation baseline is now established before the first hardware validation cycle. Physical bring-up, measurements and hardware-dependent results will be documented only after they have been observed on the real prototype.
+The public documentation baseline now includes both product-level and technical architecture material before the first hardware validation cycle. Physical bring-up, measurements and hardware-dependent results will be documented only after they have been observed on the real prototype.
 
 ## Repository structure
 
@@ -29,7 +33,7 @@ The public documentation baseline is now established before the first hardware v
 
 The internal LinkDeck documentation is intentionally more detailed than the public set.
 
-Public documents are curated to explain the product, development decisions and validation process without exposing production-critical implementation details or prematurely presenting unvalidated decisions as final.
+Public documents are curated to explain the product, development decisions, architecture and validation process without exposing production-critical implementation details or prematurely presenting unvalidated decisions as final.
 
 ## Related repositories
 
