@@ -12,6 +12,8 @@ Only material that has passed a public-disclosure review should be published her
 
 - [Public Roadmap](public-roadmap.md) — high-level development phases, validation gates and software priorities
 - [UI/UX Overview](ui-ux-overview.md) — public interaction model, design principles, core flows and real-hardware validation goals
+- [Brand Overview](brand-overview.md) — public identity, palette, typography, mascot and communication direction
+- [Prototype Validation Overview](prototype-validation.md) — public validation approach for mechanical, UI, NFC, QR, power and thermal testing
 
 ## Planned documentation
 
