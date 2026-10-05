@@ -4,21 +4,24 @@ This directory contains the public LinkDeck documentation that has been reviewed
 
 ## Current status
 
-The public documentation set is still being prepared.
+The public documentation set is being built gradually while LinkDeck remains in prototype development.
 
-No production-critical engineering should be published here until it has been explicitly reviewed for public release.
+Only material that has passed a public-disclosure review should be published here.
+
+## Published documents
+
+- [Public Roadmap](public-roadmap.md) — high-level development phases, validation gates and software priorities
+- [UI/UX Overview](ui-ux-overview.md) — public interaction model, design principles, core flows and real-hardware validation goals
 
 ## Planned documentation
 
-Public documentation may include:
+Additional public documentation may include:
 
 - Product overview
-- Public roadmap
-- Interaction model
-- Selected UI/UX documentation
 - Prototype milestones
 - User-facing guides
 - Public architecture overviews
+- Selected technical notes
 - Developer documentation once stable public interfaces exist
 
 ## Publication rules
@@ -32,11 +35,11 @@ A document should only be added here when it:
 5. Does not contain supplier-sensitive or private commercial information.
 6. Accurately reflects the current project state.
 
-## Current candidates
+## Internal vs public documentation
 
-The next public documents are being selected from the internal LinkDeck documentation after a disclosure review.
+The internal LinkDeck documentation is more detailed than the material published here.
 
-Until that review is complete, this directory intentionally remains minimal.
+Public documents may therefore be curated summaries rather than direct copies of internal specifications. This allows LinkDeck to build in public without exposing production-critical engineering or prematurely freezing decisions that still require physical validation.
 
 ## Related
 
